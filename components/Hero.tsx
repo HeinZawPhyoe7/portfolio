@@ -32,7 +32,7 @@ const Hero = () => {
           />
 
           <p className=" text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Hein Zaw Phyoe
+            Hi, I'm Hein Zaw Phyoe from Myanmar
           </p>
           <a href="#about">
             <MagicButton
